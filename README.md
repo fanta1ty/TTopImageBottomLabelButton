@@ -1,4 +1,4 @@
-![LOGO](https://github.com/fanta1ty/TRightImageButton/blob/master/ScreenShot/Logo.png)
+![LOGO](https://github.com/fanta1ty/TTopImageBottomLabelButton/blob/master/ScreenShot/Logo.png)
 
 # TTopImageBottomLabelButton
 
@@ -45,7 +45,7 @@ topImageBottomLabelButton.customTitleLabel.text = "Top Image Bottom Label Button
 topImageBottomLabelButton.topImageView.image = UIImage(named: "Image")
 ```
 
-![til](https://github.com/fanta1ty/TRightImageButton/blob/master/ScreenShot/demo.gif)
+![til](https://github.com/fanta1ty/TTopImageBottomLabelButton/blob/master/ScreenShot/demo.gif)
 
 ## Requirements
 - iOS 9.3 or later
