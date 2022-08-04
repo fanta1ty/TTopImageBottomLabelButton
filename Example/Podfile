@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'TTopImageBottomLabelButton_Example' do
+  pod 'TTopImageBottomLabelButton', :path => '../'
+
+  target 'TTopImageBottomLabelButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

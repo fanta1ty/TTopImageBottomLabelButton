@@ -1,0 +1,23 @@
+PODS:
+  - TTopImageBottomLabelButton (1.0.0):
+    - TTouchAnimatedButton (~> 1.0.0)
+  - TTouchAnimatedButton (1.0.1)
+
+DEPENDENCIES:
+  - TTopImageBottomLabelButton (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - TTouchAnimatedButton
+
+EXTERNAL SOURCES:
+  TTopImageBottomLabelButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TTopImageBottomLabelButton: 7bd004234e15d9c43d3d38b406565c2ff1575046
+  TTouchAnimatedButton: 0b46615949697a2f0daef58c9d5346caa4c396ab
+
+PODFILE CHECKSUM: 899c66590cc3db9b8df1f4da1904671d761617ce
+
+COCOAPODS: 1.11.3
